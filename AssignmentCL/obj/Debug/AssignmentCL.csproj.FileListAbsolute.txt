@@ -1,0 +1,6 @@
+E:\New Task\Assignment\AssignmentCL\bin\Debug\AssignmentCL.dll
+E:\New Task\Assignment\AssignmentCL\bin\Debug\AssignmentCL.pdb
+E:\New Task\Assignment\AssignmentCL\obj\Debug\AssignmentCL.csproj.AssemblyReference.cache
+E:\New Task\Assignment\AssignmentCL\obj\Debug\AssignmentCL.csproj.CoreCompileInputs.cache
+E:\New Task\Assignment\AssignmentCL\obj\Debug\AssignmentCL.dll
+E:\New Task\Assignment\AssignmentCL\obj\Debug\AssignmentCL.pdb

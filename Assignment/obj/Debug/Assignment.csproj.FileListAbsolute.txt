@@ -1,0 +1,7 @@
+E:\New Task\Assignment\Assignment\bin\Debug\Assignment.exe.config
+E:\New Task\Assignment\Assignment\bin\Debug\Assignment.exe
+E:\New Task\Assignment\Assignment\bin\Debug\Assignment.pdb
+E:\New Task\Assignment\Assignment\obj\Debug\Assignment.csproj.AssemblyReference.cache
+E:\New Task\Assignment\Assignment\obj\Debug\Assignment.csproj.CoreCompileInputs.cache
+E:\New Task\Assignment\Assignment\obj\Debug\Assignment.exe
+E:\New Task\Assignment\Assignment\obj\Debug\Assignment.pdb

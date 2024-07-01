@@ -1,0 +1,6 @@
+E:\New Task\Assignment\Tester\bin\Debug\Tester.exe.config
+E:\New Task\Assignment\Tester\bin\Debug\Tester.exe
+E:\New Task\Assignment\Tester\bin\Debug\Tester.pdb
+E:\New Task\Assignment\Tester\obj\Debug\Tester.csproj.CoreCompileInputs.cache
+E:\New Task\Assignment\Tester\obj\Debug\Tester.exe
+E:\New Task\Assignment\Tester\obj\Debug\Tester.pdb
